@@ -103,3 +103,15 @@ def transform(df):
 if __name__ == '__main__':
     df = run()
     transform(df)
+
+
+"""
+26
+28
+98
+104
+114
+150
+180
+
+"""
